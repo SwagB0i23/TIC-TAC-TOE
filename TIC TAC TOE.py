@@ -1,7 +1,7 @@
 from IPython.display import clear_output
 
 
-print(                                   'WELCOME TO TIC TAC FUCKING TOE!!!!!')
+print(                                   'WELCOME TO TIC TAC TOE!!!!!')
 print('\n\n\n Practice program by CJ\n\n')
 # PLAYERS SHOULD BE 2
 # FLOW SHOULD GO LIKE THIS
